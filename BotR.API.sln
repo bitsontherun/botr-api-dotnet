@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotR.API", "BotR.API.csproj", "{F4CF022F-F94B-4B89-933C-8592ACB650FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotRAPIConsole", "..\BotRAPIConsole\BotRAPIConsole.csproj", "{6B535F7F-4488-41A2-A21A-DA7E47F6499B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4CF022F-F94B-4B89-933C-8592ACB650FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4CF022F-F94B-4B89-933C-8592ACB650FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4CF022F-F94B-4B89-933C-8592ACB650FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4CF022F-F94B-4B89-933C-8592ACB650FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B535F7F-4488-41A2-A21A-DA7E47F6499B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B535F7F-4488-41A2-A21A-DA7E47F6499B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B535F7F-4488-41A2-A21A-DA7E47F6499B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B535F7F-4488-41A2-A21A-DA7E47F6499B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

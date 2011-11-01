@@ -1,0 +1,9 @@
+.svn
+
+[Tt]humbs.db
+.DS_Store
+
+[Oo]bj/
+[Bb]in/
+*.user
+*.suo
